@@ -1,0 +1,3 @@
+make a catalog in databricks
+creat schema for bronze,silver and gold 
+uploade you files to bronze layer using volume and call it source_system
